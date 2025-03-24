@@ -27,7 +27,7 @@ Welcome to my GitHub profile !! 🚀
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshusingh017&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshusingh017&label=Profile%20Views&color=brightgreen&style=flat" alt="PROFILE VIEWS" />
 </div>
 
 <br/>
