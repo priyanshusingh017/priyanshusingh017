@@ -1,8 +1,13 @@
 # 👋 Hi, I'm Priyanshu Singh
 
-Welcome to my GitHub profile !! 🚀 
-
-<img src="giphy.gif" alt="Coding GIF" width="300" align="right" style="border-radius: 10px;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    Welcome to my GitHub profile !! 🚀  
+  </div>
+  <div>
+    <img src="giphy.gif" alt="Coding GIF" width="200" style="border-radius: 10px; margin-left: 20px;">
+  </div>
+</div>
 
 ---
 
@@ -54,7 +59,6 @@ Welcome to my GitHub profile !! 🚀
 
 ---
 
-## 🐍 **Contribution Snake**
 <div align="center">
   <img src="snake.svg" alt="GitHub Contribution Snake" width="100%">
 </div>
@@ -72,4 +76,5 @@ Welcome to my GitHub profile !! 🚀
 - 🔢 [LeetCode](https://leetcode.com/_priyanshusingh01/)
 
 Feel free to explore my repositories, connect with me, and collaborate on exciting projects! 🚀
+
 
