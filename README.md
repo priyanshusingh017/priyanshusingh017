@@ -40,6 +40,16 @@ Welcome to my GitHub profile !! 🚀
 ## 🏆 **GitHub Trophies**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=7)
 
+
+###
+
+
+
+
+
+
+###
+
 ## 🧩 **LeetCode Stats**
 
 <div align="center" style="background-color: #1F1F1F; padding: 15px; border-radius: 10px; display: inline-block;">
@@ -64,10 +74,7 @@ Welcome to my GitHub profile !! 🚀
 
 ## 📜 **Random Quote**
 
-> _"Much of the essence of building a program is in fact the debugging of the specification."_  
-> — **Fred Brooks**
+> _"Programming is like writing a book... except if you miss a single comma on page 126, the whole thing crashes."_  
+> — **Anonymous**
 
 ---
-
-
-
