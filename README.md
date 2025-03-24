@@ -27,9 +27,8 @@ Welcome to my GitHub profile !! 🚀
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshusingh017&label=PROFILE%20VIEWS&color=brightgreen&style=flat" alt="PROFILE VIEWS" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=priyanshusingh017&label=PROFILE%20VIEWS&color=brightgreen&style=flat" alt="PROFILE VIEWS" />
 </div>
-
 
 <br/>
 
@@ -38,19 +37,15 @@ Welcome to my GitHub profile !! 🚀
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh017&theme=radical) |
 
 
-<br/>
-
-
 ## 🔗 **Most Used Languages**
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh017&layout=compact&theme=radical)
 
-<br/>
 
 ## 🏆 **GitHub Trophies**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=7)
 
-<br/>
+
 
 ## 🧩 **LeetCode Stats**
 
