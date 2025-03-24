@@ -1,13 +1,8 @@
 # 👋 Hi, I'm Priyanshu Singh
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    Welcome to my GitHub profile !! 🚀
-  </div>
-  <div>
-    <img src="giphy.gif" alt="Coding GIF" width="200" style="border-radius: 10px;">
-  </div>
-</div>
+<h2 align="left"> Welcome to my GitHub profile !! 🚀 </h2>
+<img align="right" height="150" src="giphy.gif" alt="Coding GIF" />
+
 
 
 ---
