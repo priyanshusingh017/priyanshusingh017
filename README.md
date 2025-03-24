@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile !! 🚀
 <div>
-  <img align="right" src="giphy.gif" alt="Coding GIF" height="200" width="200" style="float: right; margin-left: 10px;">
+  <img align="right" src="giphy.gif" alt="Coding GIF" height="150" width="150" style="float: right; margin-left: 10px;">
 </div>
 
 ###
@@ -24,8 +24,10 @@ Welcome to my GitHub profile !! 🚀
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 
-###
 
+
+###
+###
 ## 📊 **GitHub Stats**
 | **Overview** | **Current Streak** |  
 |--------------|---------------------|  
