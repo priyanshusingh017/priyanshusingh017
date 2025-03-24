@@ -29,13 +29,13 @@ Welcome to my GitHub profile !! 🚀
 |--------------|---------------------|  
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh017&theme=radical) |
 
----
+###
 
 ## 🌟 **Most Used Languages**
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh017&layout=compact&theme=radical)
 
----
+###
 
 ## 🏆 **GitHub Trophies**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=7)
@@ -52,7 +52,7 @@ Welcome to my GitHub profile !! 🚀
   </div>
 </div>
 
----
+###
 
 
 
@@ -60,7 +60,7 @@ Welcome to my GitHub profile !! 🚀
   <img src="snake.svg" alt="GitHub Contribution Snake" width="100%">
 </div>
 
----
+###
 
 ## 📜 **Random Quote**
 
