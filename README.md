@@ -39,9 +39,7 @@ Welcome to my GitHub profile !! 🚀
 
 
 ## 🏆 **GitHub Trophies**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=false)
-
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=false&v=1)
 
 
 
