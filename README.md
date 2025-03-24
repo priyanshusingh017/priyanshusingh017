@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Priyanshu Singh
 
-Welcome to my GitHub profile! 🚀 I'm an enthusiastic **Computer Science Engineer** passionate about **Web Development**, **Cloud Computing**, and **AI/ML**. I love solving complex problems and contributing to open-source projects.
+Welcome to my GitHub profile !! 🚀 
+
+<img src="giphy.gif" alt="Coding GIF" width="300" align="right" style="border-radius: 10px;">
 
 ---
 
@@ -19,7 +21,6 @@ Welcome to my GitHub profile! 🚀 I'm an enthusiastic **Computer Science Engine
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
-
 
 ---
 
@@ -40,17 +41,35 @@ Welcome to my GitHub profile! 🚀 I'm an enthusiastic **Computer Science Engine
 
 ---
 
+## 🧩 **LeetCode Stats**
+<div align="center" style="background-color: #1F1F1F; padding: 15px; border-radius: 10px; display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" height="30" style="vertical-align: middle; margin-right: 10px;">
+  <span style="color: #FFD700; font-size: 22px; font-weight: bold;">LeetCode</span>
+  <span style="color: #00E676; font-size: 18px; font-weight: bold; margin-left: 15px;">_priyanshusingh01</span>
+  <br/><br/>
+  <div style="margin-top: 10px;">
+    <img src="https://leetcard.jacoblin.cool/_priyanshusingh01?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Status Card" width="400">
+  </div>
+</div>
+
+---
+
+## 🐍 **Contribution Snake**
+<div align="center">
+  <img src="snake.svg" alt="GitHub Contribution Snake" width="100%">
+</div>
+
+---
+
+## 📜 **Random Quote**
+> _"Much of the essence of building a program is in fact the debugging of the specification."_  
+> — **Fred Brooks**
+
+---
+
+## 🔗 **Let's Connect**
+- 🐙 [GitHub](https://github.com/priyanshusingh017)
+- 🔢 [LeetCode](https://leetcode.com/_priyanshusingh01/)
+
 Feel free to explore my repositories, connect with me, and collaborate on exciting projects! 🚀
 
-
-
-## 🔗 Find Me Online
-- 🐱‍💻 **GitHub**: [priyanshusingh017](https://github.com/priyanshusingh017)
-- 📘 **LinkedIn**: [Priyanshu Singh](https://www.linkedin.com/in/priyanshu-singh-00s7)
-- 📧 **Email**: singhpriyanshu661930@gmail.com
-
----
-
----
-
-Let's connect, collaborate, and create something amazing! Feel free to reach out or explore my repositories for insights into my journey.
