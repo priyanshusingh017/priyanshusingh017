@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile !! 🚀  
 <div>
-  <img align="right" src="giphy.gif" alt="Coding GIF" height="200" width="200" style="float: right; margin-left: 10px;">
+  <img align="right" src="giphy.gif" alt="Coding GIF" height="220" width="220" style="float: right; margin-left: 10px;">
 </div>
 
 ---
