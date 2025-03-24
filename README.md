@@ -2,10 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
-    Welcome to my GitHub profile !! 🚀  
-  </div>
-  <div>
-    <img src="giphy.gif" alt="Coding GIF" width="200" style="border-radius: 10px; margin-left: 20px;">
+    Welcome to my GitHub profile !! 🚀  <img src="giphy.gif" alt="Coding GIF" width="200" style="border-radius: 10px; margin-left: 20px;">
   </div>
 </div>
 
