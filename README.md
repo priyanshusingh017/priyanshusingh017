@@ -31,7 +31,7 @@ Welcome to my GitHub profile !! 🚀
 
 ###
 
-## 🌟 **Most Used Languages**
+## 🔗 **Most Used Languages**
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh017&layout=compact&theme=radical)
 
