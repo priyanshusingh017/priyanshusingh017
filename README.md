@@ -2,10 +2,9 @@
 
 Welcome to my GitHub profile !! 🚀  
 <div>
-  <img align="right" src="giphy.gif" alt="Coding GIF" height="220" width="220" style="float: right; margin-left: 10px;">
+  <img align="right" src="giphy.gif" alt="Coding GIF" height="250" width="250" style="float: right; margin-left: 10px;">
 </div>
 
----
 
 ## 🛠️ **Tech Stack**
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
@@ -23,7 +22,7 @@ Welcome to my GitHub profile !! 🚀
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 
-
+<br/>
 
 ## 📊 **GitHub Stats**
 
@@ -37,19 +36,20 @@ Welcome to my GitHub profile !! 🚀
 |--------------|---------------------|  
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh017&theme=radical) |
 
----
+
+<br/>
 
 
 ## 🔗 **Most Used Languages**
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh017&layout=compact&theme=radical)
 
----
+<br/>
 
 ## 🏆 **GitHub Trophies**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=7)
 
----
+<br/>
 
 ## 🧩 **LeetCode Stats**
 
@@ -63,13 +63,13 @@ Welcome to my GitHub profile !! 🚀
   </div>
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="snake.svg" alt="GitHub Contribution Snake" width="100%">
 </div>
 
----
+<br/>
 
 ## 📜 **Random Quote**
 
