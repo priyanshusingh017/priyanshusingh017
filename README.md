@@ -27,9 +27,10 @@ Welcome to my GitHub profile !! 🚀
 ## 📊 **GitHub Stats**
 
 
-| **Overview** | **Current Streak ** | **Total Contributions ** |
-|--------------------------|--------------------------------|-------------------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&count_private=true&theme=radical&include_all_commits=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=priyanshusingh017&theme=radical) | ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=priyanshusingh017&theme=radical) |
+| **Overview** | **Current Streak** |  
+|--------------|---------------------|  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh017&theme=radical) |
+
 
 
 
