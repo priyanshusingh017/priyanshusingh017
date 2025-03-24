@@ -29,7 +29,8 @@ Welcome to my GitHub profile !! 🚀
 
 | **Overview** | **Current Streak** |  
 |--------------|---------------------|  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshusingh017&theme=radical)  | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh017&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&theme=radical&count_private=true&include_all_commits=true) <br> ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshusingh017&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh017&theme=radical) |
+
 
 
 
@@ -40,8 +41,10 @@ Welcome to my GitHub profile !! 🚀
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh017&layout=compact&theme=radical)
 
 
-## 🏆 **GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=7)
+## 🏆 **GitHub Trophies**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=false)
+
+
 
 
 
