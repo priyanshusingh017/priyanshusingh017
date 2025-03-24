@@ -1,41 +1,47 @@
 # 👋 Hi, I'm Priyanshu Singh
 
-Welcome to my GitHub profile! 🚀 I'm a **Computer Science Engineer in the making**, passionate about **Web Development**, **Cloud Computing**, **Artificial Intelligence**, and **Competitive Programming**.
+Welcome to my GitHub profile! 🚀 I'm an enthusiastic **Computer Science Engineer** passionate about **Web Development**, **Cloud Computing**, and **AI/ML**. I love solving complex problems and contributing to open-source projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
+
 
 ---
 
-## 📊 GitHub Stats
-| **Overview** | **Streak Stats** |
-|--------------|-------------------|
-| ![](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&theme=radical) | ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh017&theme=radical) |
+## 📊 **GitHub Stats**
+| **Overview** | **Current Streak** |  
+|--------------|---------------------|  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh017&theme=radical) |
 
 ---
 
-## 🌟 Contributions
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=priyanshusingh017&theme=github)
+## 🌟 **Most Used Languages**
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh017&layout=compact&theme=radical)
 
 ---
 
-## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/_priyanshusingh01?theme=dark)
+## 🏆 **GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=7)
 
 ---
 
-## 📚 Featured Quote
-*"Success is not final; failure is not fatal: It is the courage to continue that counts."* – *Winston Churchill*
+Feel free to explore my repositories, connect with me, and collaborate on exciting projects! 🚀
+
 
 
 ## 🔗 Find Me Online
