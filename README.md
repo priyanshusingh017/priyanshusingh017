@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Priyanshu Singh
 
-Welcome to my GitHub profile !! 🚀  
+Welcome to my GitHub profile! 🚀  
 <div>
   <img align="right" src="giphy.gif" alt="Coding GIF" height="230" width="230" style="float: right; margin-left: 10px;">
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshusingh017&color=brightgreen&style=flat-square)
 
 ## 🛠️ **Tech Stack**
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
@@ -27,7 +29,7 @@ Welcome to my GitHub profile !! 🚀
 
 | **Overview** | **Current Streak** |
 |--------------|---------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh017&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com?user=priyanshusingh017&theme=radical&hide_border=true) |
 
 ## 🔗 **Most Used Languages**
 
@@ -36,7 +38,7 @@ Welcome to my GitHub profile !! 🚀
 ## 🏆 **GitHub Trophies**  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=false&v=1)
 
-## 🧩 **Coding Stats**
+## 🧩 **Coding Profiles**
 
 ### **LeetCode**
 <div align="center" style="background-color: #1F1F1F; padding: 15px; border-radius: 10px; display: inline-block;">
@@ -56,7 +58,7 @@ Welcome to my GitHub profile !! 🚀
   <span style="color: #00E676; font-size: 18px; font-weight: bold; margin-left: 15px;">albert53r81h</span>
   <br/><br/>
   <a href="https://www.geeksforgeeks.org/user/albert53r81h/" target="_blank">
-    <img src="https://geeksforgeeks-card.vercel.app/api?username=albert53r81h&theme=dark" alt="GeeksforGeeks Status Card" width="400">
+    <img src="https://geeksforgeeks-card.vercel.app/api?username=albert53r81h&theme=dark" alt="GeeksforGeeks Stats Card" width="400">
   </a>
 </div>
 
