@@ -5,7 +5,6 @@ Welcome to my GitHub profile !! 🚀
   <img align="right" src="giphy.gif" alt="Coding GIF" height="230" width="230" style="float: right; margin-left: 10px;">
 </div>
 
-
 ## 🛠️ **Tech Stack**
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -26,25 +25,20 @@ Welcome to my GitHub profile !! 🚀
 
 ## 📊 **GitHub Stats**
 
-
 | **Overview** | **Current Streak** |
 |--------------|---------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh017&theme=radical) |
-
-
 
 ## 🔗 **Most Used Languages**
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh017&layout=compact&theme=radical)
 
-
 ## 🏆 **GitHub Trophies**  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=false&v=1)
 
+## 🧩 **Coding Stats**
 
-
-## 🧩 **LeetCode Stats**
-
+### **LeetCode**
 <div align="center" style="background-color: #1F1F1F; padding: 15px; border-radius: 10px; display: inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" height="30" style="vertical-align: middle; margin-right: 10px;">
   <span style="color: #FFD700; font-size: 22px; font-weight: bold;">LeetCode</span>
@@ -53,6 +47,17 @@ Welcome to my GitHub profile !! 🚀
   <div style="margin-top: 10px;">
     <img src="https://leetcard.jacoblin.cool/_priyanshusingh01?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Status Card" width="400">
   </div>
+</div>
+
+### **GeeksforGeeks**
+<div align="center" style="background-color: #1F1F1F; padding: 15px; border-radius: 10px; display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks Logo" height="30" style="vertical-align: middle; margin-right: 10px;">
+  <span style="color: #FFD700; font-size: 22px; font-weight: bold;">GeeksforGeeks</span>
+  <span style="color: #00E676; font-size: 18px; font-weight: bold; margin-left: 15px;">albert53r81h</span>
+  <br/><br/>
+  <a href="https://www.geeksforgeeks.org/user/albert53r81h/" target="_blank">
+    <img src="https://geeksforgeeks-card.vercel.app/api?username=albert53r81h&theme=dark" alt="GeeksforGeeks Status Card" width="400">
+  </a>
 </div>
 
 <br/>
@@ -68,5 +73,4 @@ Welcome to my GitHub profile !! 🚀
 > _"Programming is like writing a book... except if you miss a single comma on page 126, the whole thing crashes."_  
 > — **Anonymous**
 
----
 
