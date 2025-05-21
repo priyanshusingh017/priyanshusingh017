@@ -43,26 +43,19 @@ Welcome to my GitHub profile !! 🚀
 
 
 
-## 🧩 **Coding Stats**
+## 🧩 **LeetCode Stats**
 
-<table>
-  <tr>
-    <td align="center" style="background-color: #1F1F1F; padding: 15px; border-radius: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" height="30" style="vertical-align: middle; margin-right: 10px;">
-      <span style="color: #FFD700; font-size: 22px; font-weight: bold;">LeetCode</span>
-      <span style="color: #00E676; font-size: 18px; font-weight: bold; margin-left: 15px;">_priyanshusingh01</span>
-      <br/><br/>
-      <img src="https://leetcard.jacoblin.cool/_priyanshusingh01?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Status Card" width="400">
-    </td>
-    <td align="center" style="background-color: #1F1F1F; padding: 15px; border-radius: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks Logo" height="30" style="vertical-align: middle; margin-right: 10px;">
-      <span style="color: #00C853; font-size: 22px; font-weight: bold;">GeeksforGeeks</span>
-      <span style="color: #FFD700; font-size: 18px; font-weight: bold; margin-left: 15px;">Albert53r81h</span>
-      <br/><br/>
-      <a href="https://www.geeksforgeeks.org/user/albert53r81h/" target="_blank" style="text-decoration: none; color: #00E676; font-size: 18px; font-weight: bold;">View My Profile</a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="background-color: #1F1F1F; padding: 15px; border-radius: 10px; display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" height="30" style="vertical-align: middle; margin-right: 10px;">
+  <span style="color: #FFD700; font-size: 22px; font-weight: bold;">LeetCode</span>
+  <span style="color: #00E676; font-size: 18px; font-weight: bold; margin-left: 15px;">_priyanshusingh01</span>
+  <br/><br/>
+  <div style="margin-top: 10px;">
+    <img src="https://leetcard.jacoblin.cool/_priyanshusingh01?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Status Card" width="400">
+  </div>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="snake.svg" alt="GitHub Contribution Snake" width="100%">
