@@ -59,8 +59,3 @@ I'm a software engineer passionate about building user-centric web applications,
 
 ---
 
-## 📫 **Contact Me**
-- **Email**: [singhpriyanshu661930@gmail.com](mailto:singhpriyanshu661930@gmail.com)
-- **LinkedIn**: [Priyanshu Singh](https://linkedin.com/in/priyanshu-singh-00s7)
-
-
