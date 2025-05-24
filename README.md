@@ -1,16 +1,19 @@
-# 👋 Hi, I'm Priyanshu Singh
+# Hi, I'm Priyanshu Singh  👋 
+<div>
+   <img src="priyanshu.png" alt="Priyanshu Singh" style="width: 100%; max-width: 100%; height: auto;">
+</div>
 
-Welcome to my GitHub profile !! 🚀  
+I'm a software engineer passionate about building user-centric web applications, leveraging C++ and modern web technologies like HTML, CSS, and JavaScript. I enjoy contributing to impactful projects and creating solutions that elevate communities. My experience includes developing scalable platforms and integrating data-driven insights to solve real-world problems. As a lifelong learner, I am always eager to explore new technologies and contribute to collaborative, open-source initiatives.
+
+
 <div>
   <img align="right" src="giphy.gif" alt="Coding GIF" height="230" width="230" style="float: right; margin-left: 10px;">
 </div>
 
 
 ## 🛠️ **Tech Stack**
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
@@ -23,20 +26,6 @@ Welcome to my GitHub profile !! 🚀
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 
 <br/>
-
-## 📊 **GitHub Stats**
-
-
-| **Overview** | **Current Streak** |
-|--------------|---------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh017&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh017&theme=radical) |
-
-
-
-## 🔗 **Most Used Languages**
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh017&layout=compact&theme=radical)
-
 
 ## 🏆 **GitHub Trophies**  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=false&v=1)
@@ -69,5 +58,9 @@ Welcome to my GitHub profile !! 🚀
 > — **Anonymous**
 
 ---
+
+## 📫 **Contact Me**
+- **Email**: [singhpriyanshu661930@gmail.com](mailto:singhpriyanshu661930@gmail.com)
+- **LinkedIn**: [Priyanshu Singh](https://linkedin.com/in/priyanshu-singh-00s7)
 
 
