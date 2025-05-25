@@ -3,8 +3,7 @@
    <img src="priyanshu.png" alt="Priyanshu Singh" style="width: 100%; max-width: 100%; height: auto;">
 </div>
 
-I'm a software engineer passionate about building user-centric web applications, leveraging C++ and modern web technologies like HTML, CSS, and JavaScript. I enjoy contributing to impactful projects and creating solutions that elevate communities. My experience includes developing scalable platforms and integrating data-driven insights to solve real-world problems. As a lifelong learner, I am always eager to explore new technologies and contribute to collaborative, open-source initiatives.
-
+I'm a software engineer passionate about creating scalable and user-centric web applications, leveraging C++ and web technologies like HTML, CSS, and JavaScript. My experience includes developing secure platforms, implementing machine learning solutions, and designing data-driven dashboards to enhance decision-making. I thrive on solving real-world challenges, fostering innovation, and continuously exploring new technologies.
 
 <div>
   <img align="right" src="giphy.gif" alt="Coding GIF" height="230" width="230" style="float: right; margin-left: 10px;">
