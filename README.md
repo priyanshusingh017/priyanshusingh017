@@ -32,15 +32,15 @@ I'm a software engineer passionate about creating scalable and user-centric web 
 
 
 
-## 🧩 LeetCode Stats
+image.png
+PNG 1.95KB
+## 🧩 **LeetCode Stats**
 
 <div align="center" style="background-color: #1F1F1F; padding: 15px; border-radius: 10px; display: inline-block;">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" height="24" style="margin-right: 10px;">
-    <span style="color: #FFD700; font-size: 22px; font-weight: bold;">LeetCode</span>
-    <span style="color: #00E676; font-size: 18px; font-weight: bold; margin-left: 8px;">_priyanshusingh01</span>
-  </div>
-  <br/>
+  
+  <span style="color: #FFD700; font-size: 22px; font-weight: bold;">LeetCode</span>
+  <span style="color: #00E676; font-size: 18px; font-weight: bold; margin-left: 15px;">_priyanshusingh01</span>
+  <br/><br/>
   <div style="margin-top: 10px;">
     <img src="https://leetcard.jacoblin.cool/_priyanshusingh01?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Status Card" width="400">
   </div>
