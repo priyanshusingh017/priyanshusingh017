@@ -32,8 +32,6 @@ I'm a software engineer passionate about creating scalable and user-centric web 
 
 
 
-image.png
-PNG 1.95KB
 ## 🧩 **LeetCode Stats**
 
 <div align="center" style="background-color: #1F1F1F; padding: 15px; border-radius: 10px; display: inline-block;">
